@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib_monkeys_lib.a  CMakeFiles/monkeys_lib.dir/monkeys.cpp.o
+/usr/bin/ranlib lib_monkeys_lib.a

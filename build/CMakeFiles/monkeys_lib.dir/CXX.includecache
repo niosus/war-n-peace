@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Programming/Fun/war-n-peace/monkeys.cpp
+monkeys.h
+/home/igor/Programming/Fun/war-n-peace/monkeys.h
+cstring
+-
+omp.h
+-
+
+/home/igor/Programming/Fun/war-n-peace/monkeys.h
+string
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+

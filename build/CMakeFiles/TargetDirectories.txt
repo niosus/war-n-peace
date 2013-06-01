@@ -1,0 +1,2 @@
+/home/igor/Programming/Fun/war-n-peace/build/CMakeFiles/monkeys_lib.dir
+/home/igor/Programming/Fun/war-n-peace/build/CMakeFiles/start_search.dir

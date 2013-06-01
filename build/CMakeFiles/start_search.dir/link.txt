@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fopenmp -D_PWN_USE_OPENMP_    CMakeFiles/start_search.dir/start_search.cpp.o  -o start_search -rdynamic lib_monkeys_lib.a 
